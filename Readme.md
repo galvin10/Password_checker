@@ -2,6 +2,11 @@
 
 A simple Python-based Password Strength Checker that evaluates the security of a password based on common password security rules and provides suggestions for improvement.
 
+**Author:** Galvin  
+**Date:** June 9, 2026  
+**Version:** 1.0  
+
+
 ## Features
 
 * Checks password strength on a scale of **0–5**
